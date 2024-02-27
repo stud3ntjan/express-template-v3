@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "131b8c13-0eb1-492a-96b8-b79e51bb8064",
+		"name": "AWS",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "31479631"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
